@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>13</FontSize>
+            <FtpIndex>-1</FtpIndex>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor-app2</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>cube_over,lines,dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/convex/</ImageTemplate>
+            <ImageTemplateName>Convex</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>F:/26_DAM/2do parcial/Aplicaciones en DW/app2/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>F:/26_DAM/2do parcial/Aplicaciones en DW/app2</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#54acd2</TemplateColor>
+            <TemplateFont>Gurajada</TemplateFont>
+            <TemplateName>convex</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>F:/26_DAM/2do parcial/Aplicaciones en DW/app2/imagenes/Galaxy.jpeg</url>
+                <title>Galaxy</title>
+                <filesize>30035</filesize>
+            </Image>
+            <Image>
+                <url>F:/26_DAM/2do parcial/Aplicaciones en DW/app2/imagenes/huawei p8.jpg</url>
+                <title>huawei p8</title>
+                <filesize>16170</filesize>
+            </Image>
+            <Image>
+                <url>F:/26_DAM/2do parcial/Aplicaciones en DW/app2/imagenes/huawei.jpg</url>
+                <title>huawei</title>
+                <filesize>30811</filesize>
+            </Image>
+            <Image>
+                <url>F:/26_DAM/2do parcial/Aplicaciones en DW/app2/imagenes/huawei2.jpg</url>
+                <title>huawei2</title>
+                <filesize>132309</filesize>
+            </Image>
+            <Image>
+                <url>F:/26_DAM/2do parcial/Aplicaciones en DW/app2/imagenes/iphone.jpg</url>
+                <title>iphone</title>
+                <filesize>34399</filesize>
+            </Image>
+            <Image>
+                <url>F:/26_DAM/2do parcial/Aplicaciones en DW/app2/imagenes/iphone2.jpg</url>
+                <title>iphone2</title>
+                <filesize>26742</filesize>
+            </Image>
+            <Image>
+                <url>F:/26_DAM/2do parcial/Aplicaciones en DW/app2/imagenes/lgg5.jpg</url>
+                <title>lgg5</title>
+                <filesize>46852</filesize>
+            </Image>
+            <Image>
+                <url>F:/26_DAM/2do parcial/Aplicaciones en DW/app2/imagenes/motorola-moto-g4-plus-r1.jpg</url>
+                <title>motorola-moto-g4-plus-r1</title>
+                <filesize>69196</filesize>
+            </Image>
+            <Image>
+                <url>F:/26_DAM/2do parcial/Aplicaciones en DW/app2/imagenes/samsung.jpg</url>
+                <title>samsung</title>
+                <filesize>68047</filesize>
+            </Image>
+            <Image>
+                <url>F:/26_DAM/2do parcial/Aplicaciones en DW/app2/imagenes/sony.jpg</url>
+                <title>sony</title>
+                <filesize>8033</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
